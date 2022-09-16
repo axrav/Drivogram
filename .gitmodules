@@ -1,0 +1,6 @@
+[submodule "DrivogramBackend"]
+	path = DrivogramBackend
+	url = https://github.com/Axrav/DrivogramBackend
+[submodule "DrivogramCLI"]
+	path = DrivogramCLI
+	url = https://github.com/Axrav/DrivogramCLI
