@@ -30,7 +30,7 @@ Want to try? checkout [The CLI tool](https://github.com/Axrav/DrivogramCLI),It i
 As of now,there is no proper documentation for Drivogram, For deployement you can check specific submodule's repository!
 
 ## Contributions
-- [Fork](https://github.com/Axrav/DrivogramBackend/fork) the Repository
+- [Fork](https://github.com/Axrav/Drivogram/fork) the Repository
 - Commit the changes you like and open a PR
 
 ## Todo
