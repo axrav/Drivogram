@@ -2,17 +2,17 @@
 <h4 align = center> A Cloud Storage Drive Based on Telegram within yourself</h4>
 
 
-Storing large files on different cloud drives and paying them?,*No more!*, Drivogram is an open sourced cloud storage drive which allows you to store files with unlimited storage.Drivogram uses Telegram as its base and allows a user to store unlimited files.It comes with many more feature, some of them are listed below.
+Storing large files on different cloud drives and paying them?,*No more!*, Drivogram is an open sourced cloud storage drive which allows you to store files with unlimited storage.Drivogram uses Telegram as its base and allows a user to store unlimited files.It comes with many more features, some of them are listed below.
 
 
 ## Getting Started
-There is not much to do, all you need is to look that the submodules inside.
+There is not much to do, all you need is to look at the submodules inside.
 
 ## Features
 - Store Unlimited Files (No limit on storage)
 - Your files are stored with yourself, you dont have to worry about security issues.
 - User based Drive with proper security key authentication
-- File stays forever unt you delete it.
+- File stays forever until you delete it.
 - Store your data and share whenever you want to share it(without downloading the data)
 - Open Sourced ( Make changes as per your requirements, if you know how to do XD)
 
